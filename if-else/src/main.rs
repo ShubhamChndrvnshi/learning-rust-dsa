@@ -1,5 +1,5 @@
 fn main() {
-    let i: u8 = 34;
+    let i: i8 = -1;
 
     if i> 0 {
         println!("num is +ve");
