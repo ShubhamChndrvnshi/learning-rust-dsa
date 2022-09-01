@@ -8,7 +8,7 @@ fn main(){
 
     let tup1 = (20, 25, 35);
 }
-``  
+```  
 
 - Tupple can store heterogeneous data types
 - Tupples can also store tupples i.e, nested tupples.
